@@ -1,8 +1,10 @@
 ## Disable Cinemeta
 1. On Nuvio, Open Settings>General>Content & Discovery>Addons 
 2. Delete the addon named Cinemeta.
-## TorBox Signup
-- Create an account for TorBox and sign up for a $3/month subscription. (You will get an API key that is needed for AIOStreams)
+## TorBox API
+1. Create an account for TorBox
+2. Sign up for a $3/month subscription. 
+3. Obtain API key—needed for AIOStreams.
 ## Additional API Keys (Required)
 1. Create accounts for TMDb, TVDb, and MDBList. **SAVE LOGINS FOR EACH**
 2. Then Request an API for each—you will need these API keys for AIOMetadata.
