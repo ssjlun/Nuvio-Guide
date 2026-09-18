@@ -3,20 +3,21 @@
 2. Delete the addon named Cinemeta.
 ## TorBox API
 1. Create an account for TorBox
-2. Sign up for a $3/month subscription. 
+2. Sign up for a $3/month subscription. *Credit Card Recommended* 
 3. Obtain API key—needed for AIOStreams.
+	1. Click the dropdown menu on the top right, go to Settings and scroll down until you see Copy API Key—no need to apply.
 ## Additional API Keys (Required)
 1. Create accounts for TMDb, TVDb, and MDBList. **SAVE LOGINS FOR EACH**
 2. Then Request an API for each—you will need these API keys for AIOMetadata.
 ### TMDb
-Apply for the API using random information—it really does not matter, you just need the key.
+1. Apply for the API using random information—it really does not matter, you just need the key.
 	![TMDB](Attachments/TMDB.png)
 ### TVDb
-Apply for the API using random information—it really does not matter, you just need the key.
+1. Apply for the API using random information—it really does not matter, you just need the key.
 	![TVDB Dashboard](Attachments/TVDB%20Dashboard.png)
 	![TVDB Key](Attachments/TVDB%20Key.png)
 ### MDBList
-1. Click the dropdown menu with your name. Head to Preferences>API Access, and click generate API key.
+1. Click the dropdown menu with your name. Head to Preferences>API Access, and click generate API key—no need to apply.
 ## AIOStreams
 1. Skip any presets it suggests and use a custom setup—set it up myself. 
 2. Scroll down and select Advanced for Interface.
