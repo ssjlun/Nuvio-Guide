@@ -10,7 +10,7 @@
 2. Then Request an API for each—you will need these API keys for AIOMetadata.
 ### TMDb
 Apply for the API using random information—it really does not matter, you just need the key.
-	
+	[TMDB](./TMDB.png)
 ### TVDb
 Apply for the API using random information—it really does not matter, you just need the key.
 	
