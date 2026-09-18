@@ -3,7 +3,7 @@ Simplified guide to installing and setting up Nuvio for friends and family, made
 	**(NO API KEYS INCLUDED)**
 ## Table of Contents
 1. [Installations](./Installations.md)
-	1. [Windows](#Windows-Installation)
+	1. [Windows](https://github.com/ssjlun/Nuvio-Guide/blob/main/Installations.md#windows-installation)
 	2. Mac
 	3. Mobile
 		1. Shortcuts Auto-Refresh
