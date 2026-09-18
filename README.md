@@ -1,5 +1,5 @@
 Guide to installing and setting up Nuvio, made by Kolie.
 ## Table of Contents
-[Installations](/1.%20Installations.md)
-1. Addons
-2. Settings
+[1. Installations](./Installations.md)
+2. Addons
+3. Settings
