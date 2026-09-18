@@ -50,3 +50,5 @@ Go to Settings > Integrations to add your developer API keys:
 1. Open connected services (inside of integrations).
 2. Connect/link your TorBox account.
 3. Toggle on Resolve playable links, and Prepare links.
+## Discord Rich Presence (Desktop Only—Optional)
+1. Go to Settings>Advanced, and enable DRP.
