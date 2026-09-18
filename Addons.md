@@ -58,7 +58,7 @@
 	![Nuvio Addons](Attachments/Nuvio%20Addons.png)
 11. Paste the manifest json URL and click add addon. You should now see a new add-on named AIOMetadata.
 **MAKE SURE AIOMETADATA IS YOUR VERY FIRST ADDON ON THE TOP OF THE LIST (USE THE ARROW)**
-## PenguPlay (Optional, backup)
+## PenguPlay (Optional, free backup provider)
 1. Visit [PenguPlay](https://pengu.uk/), Connect your google account.
 2. Click copy addon URL, and go back to Nuvio.
 	![Pengu Copy](Attachments/Pengu%20Copy.png)

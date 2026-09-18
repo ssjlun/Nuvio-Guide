@@ -11,7 +11,7 @@
 2. Click the Hero Catalogs dropdown, and toggle on both Simkl Trending Movies & Shows—only two can be selected.
 ### >Continue Watching
 1. Scroll to the bottom, select sort order and choose Separate Upcoming Row.
-### >Poster Card Style (Optional/Preference)
+### >Poster Card Style (Optional, your preference)
 1. Set Width to Comfort, and corner radius to Sharp.
 2. Scroll down and Enable depth effect.
 	1. Keep the edge glow as Subtle.
@@ -42,7 +42,7 @@ Go to Settings > Integrations to add your developer API keys:
 1. Input your personal [TMDB API key](https://www.themoviedb.org/settings/api) and click save.
 2. Then toggle it on.
 3. Scroll down and toggle off: Artwork, Episodes, and Season Posters—Release dates should already be off, keep it off.
-### MDBList
+### MDBList Ratings
 1. Input your personal MDBList API key and click save.
 2. Then toggle it on.
 3. Scroll down and toggle off: Metacritic, Letterboxd, and Audience Score.
