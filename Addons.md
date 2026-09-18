@@ -2,12 +2,12 @@
 1. On Nuvio, Open Settings>General>Content & Discovery>Addons 
 2. Delete the addon named Cinemeta.
 ## TorBox API
-1. Create an account for TorBox
+1. Create an account for [TorBox](https://torbox.app).
 2. Sign up for a $3/month subscription. *Credit Card Recommended* 
 3. Obtain API key—needed for AIOStreams.
 	1. Click the dropdown menu on the top right, go to Settings and scroll down until you see Copy API Key—no need to apply.
 ## Additional API Keys (Required)
-1. Create accounts for TMDb, TVDb, and MDBList. **SAVE LOGINS FOR EACH**
+1. Create accounts for [TMDb](https://www.themoviedb.org), [TVDb](https://www.thetvdb.com/home), and [MDBList](https://mdblist.com). **SAVE LOGINS FOR EACH**
 2. Then Request an API for each—you will need these API keys for AIOMetadata.
 ### TMDb
 1. Apply for the API using random information—it really does not matter, you just need the key.
@@ -19,6 +19,7 @@
 ### MDBList
 1. Click the dropdown menu with your name. Head to Preferences>API Access, and click generate API key—no need to apply.
 ## AIOStreams
+[Midnight's Instance](https://aiostreamsfortheweebsstable.midnightignite.me/configure)
 1. Skip any presets it suggests and use a custom setup—set it up myself. 
 2. Scroll down and select Advanced for Interface.
 	![AIOS Interface](Attachments/AIOS%20Interface.png)
@@ -34,6 +35,7 @@
 	![Nuvio Addons](Attachments/Nuvio%20Addons.png)
 9. Paste the manifest json URL and click add addon. You should now see a new add-on named AIOStreams.
 ## AIOMetadata
+[Midnight's Instance](https://aiometadatafortheweebs.midnightignite.me/configure)
 1. Skip any presets it suggests and use a custom setup—there should be a skip button.
 	![AIOM Skip](Attachments/AIOM%20Skip.png)
 2. On the left first go to the Configuration tab to create a configuration. Make a password for it to create it (I recommend using the same as AIOStreams).
@@ -57,7 +59,7 @@
 11. Paste the manifest json URL and click add addon. You should now see a new add-on named AIOMetadata.
 **MAKE SURE AIOMETADATA IS YOUR VERY FIRST ADDON ON THE TOP OF THE LIST (USE THE ARROW)**
 ## PenguPlay (Optional, backup)
-1. Connect your google account.
+1. Visit [PenguPlay](https://pengu.uk/), Connect your google account.
 2. Click copy addon URL, and go back to Nuvio.
 	![Pengu Copy](Attachments/Pengu%20Copy.png)
 3. Open Settings>General>Content & Discovery>Addons

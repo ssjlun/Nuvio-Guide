@@ -1,7 +1,7 @@
 *The settings do not sync over between mobile and desktop. You will have to repeat these processes on each platform you decide to use Nuvio on. 
 	(Also feel free to customize it to your liking, since there are some features I left out)*
 ## Tracking
-1. Create an account for Simkl and link it to Nuvio by going to Settings>Account>Tracking. 
+1. Create an account for [Simkl](https://simkl.com/) and link it to Nuvio by going to Settings>Account>Tracking. 
 2. Then set both your continue watching and library sources to Simkl.
 3. Set your anime ID preference to TVDb.
 ## Layout
@@ -39,7 +39,7 @@ https://xperience-app.com/badges/e6b834b0-3f7f-4917-9b5b-e1cd7fdccb54.json
 ## Integrations
 Go to Settings > Integrations to add your developer API keys:
 ### TMDB Enrichment (Required for Mobile)
-1. Input your personal TMDB API key and click save.
+1. Input your personal [TMDB API key](https://www.themoviedb.org/settings/api) and click save.
 2. Then toggle it on.
 3. Scroll down and toggle off: Artwork, Episodes, and Season Posters—Release dates should already be off, keep it off.
 ### MDBList
