@@ -1,0 +1,1460 @@
+{
+  "version": "2.17.2",
+  "exportedAt": "2026-09-18T23:41:07.304Z",
+  "config": {
+    "language": "en-US",
+    "addonName": "AIOMetadata MIDNIGHT",
+    "includeAdult": false,
+    "blurThumbs": false,
+    "showPrefix": false,
+    "showMetaProviderAttribution": false,
+    "castCount": 10,
+    "displayAgeRating": false,
+    "showDisabledCatalogs": false,
+    "sfw": true,
+    "hideUnreleasedDigital": true,
+    "hideUnreleasedDigitalSearch": true,
+    "hideUnreleasedShows": true,
+    "hideUnreleasedShowsSearch": true,
+    "hideWatchedTrakt": false,
+    "hideWatchedAnilist": false,
+    "hideWatchedMdblist": false,
+    "hideWatchedSimkl": true,
+    "providers": {
+      "movie": "tmdb",
+      "series": "tvdb",
+      "anime": "tvdb",
+      "anime_id_provider": "kitsu",
+      "forceAnimeForDetectedImdb": true
+    },
+    "artProviders": {
+      "movie": {
+        "poster": "tmdb",
+        "background": "tmdb",
+        "logo": "tmdb"
+      },
+      "series": {
+        "poster": "tvdb",
+        "background": "tvdb",
+        "logo": "tvdb"
+      },
+      "anime": {
+        "poster": "tvdb",
+        "background": "imdb",
+        "logo": "imdb"
+      },
+      "englishArtOnly": true,
+      "originalLangFallback": false
+    },
+    "tvdbSeasonType": "default",
+    "mal": {
+      "skipFiller": false,
+      "skipRecap": false,
+      "allowEpisodeMarking": false,
+      "useImdbIdForCatalogAndSearch": true
+    },
+    "tmdb": {
+      "scrapeImdb": true,
+      "forceLatinCastNames": false
+    },
+    "apiKeys": {
+      "gemini": "",
+      "tmdb": "",
+      "tvdb": "",
+      "fanart": "",
+      "rpdb": "",
+      "topPoster": "",
+      "mdblist": "",
+      "openrouter": "",
+      "traktTokenId": "",
+      "simklTokenId": "",
+      "anilistTokenId": "",
+      "customDescriptionBlurb": ""
+    },
+    "posterRatingProvider": "custom",
+    "usePosterProxy": true,
+    "mdblistWatchTracking": true,
+    "anilistWatchTracking": false,
+    "malWatchTracking": false,
+    "simklWatchTracking": false,
+    "traktWatchTracking": false,
+    "publicmetadbWatchTracking": false,
+    "enableRatingPostersForLibrary": true,
+    "showRateMeButton": false,
+    "ageRating": "None",
+    "allowUnratedContent": true,
+    "searchEnabled": true,
+    "sessionId": "",
+    "catalogSetupComplete": true,
+    "timezone": "America/Chicago",
+    "catalogs": [
+      {
+        "id": "streaming.nfx",
+        "name": "Netflix (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.nfx",
+        "name": "Netflix (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.nfk",
+        "name": "Netflix Kids (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.nfk",
+        "name": "Netflix Kids (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.hbm",
+        "name": "HBO Max (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.hbm",
+        "name": "HBO Max (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.dnp",
+        "name": "Disney+ (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.dnp",
+        "name": "Disney+ (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.amp",
+        "name": "Prime Video (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.amp",
+        "name": "Prime Video (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.atp",
+        "name": "Apple TV+ (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.atp",
+        "name": "Apple TV+ (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.pmp",
+        "name": "Paramount+ (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.pmp",
+        "name": "Paramount+ (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.pcp",
+        "name": "Peacock Premium (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.pcp",
+        "name": "Peacock Premium (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.hlu",
+        "name": "Hulu (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.hlu",
+        "name": "Hulu (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.cts",
+        "name": "Curiosity Stream (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.cts",
+        "name": "Curiosity Stream (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.mgl",
+        "name": "MagellanTV (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.mgl",
+        "name": "MagellanTV (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.cru",
+        "name": "Crunchyroll (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.cru",
+        "name": "Crunchyroll (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.hay",
+        "name": "Hayu (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.hay",
+        "name": "Hayu (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.clv",
+        "name": "Clarovideo (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.clv",
+        "name": "Clarovideo (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.gop",
+        "name": "Globoplay (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.gop",
+        "name": "Globoplay (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.hst",
+        "name": "JioHotstar (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.hst",
+        "name": "JioHotstar (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.slv",
+        "name": "Sony Liv (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.slv",
+        "name": "Sony Liv (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.zee",
+        "name": "Zee5 (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.zee",
+        "name": "Zee5 (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.nlz",
+        "name": "NLZIET (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.nlz",
+        "name": "NLZIET (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.vil",
+        "name": "Videoland (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.vil",
+        "name": "Videoland (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.sst",
+        "name": "SkyShowtime (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.sst",
+        "name": "SkyShowtime (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.sky",
+        "name": "Sky Go (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.sky",
+        "name": "Sky Go (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.wow",
+        "name": "WOW (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.wow",
+        "name": "WOW (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.blv",
+        "name": "BluTV (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.blv",
+        "name": "BluTV (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.cpd",
+        "name": "Canal+ (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.cpd",
+        "name": "Canal+ (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.crv",
+        "name": "Crave (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.crv",
+        "name": "Crave (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.dpe",
+        "name": "Discovery+ (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.dpe",
+        "name": "Discovery+ (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.bet",
+        "name": "Bet+ (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.bet",
+        "name": "Bet+ (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.mub",
+        "name": "MUBI (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.mub",
+        "name": "MUBI (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.sta",
+        "name": "Starz (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.sta",
+        "name": "Starz (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.crc",
+        "name": "Criterion Channel (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.crc",
+        "name": "Criterion Channel (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.hid",
+        "name": "HIDIVE (Movies)",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "streaming.hid",
+        "name": "HIDIVE (Series)",
+        "type": "series",
+        "source": "streaming",
+        "enabled": false,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "tvdb.genres",
+        "name": "TVDB Genres",
+        "type": "movie",
+        "source": "tvdb",
+        "enabled": true,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "tmdb.year",
+        "name": "TMDB By Year",
+        "type": "movie",
+        "source": "tmdb",
+        "enabled": true,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "simkl.watchlist.movies.plantowatch",
+        "type": "movie",
+        "name": "Simkl Plan to Watch Movies",
+        "enabled": true,
+        "showInHome": true,
+        "source": "simkl",
+        "metadata": {
+          "status": "plantowatch"
+        },
+        "randomizePerPage": true
+      },
+      {
+        "id": "simkl.trending.movies",
+        "type": "movie",
+        "name": "Simkl Trending Movies",
+        "enabled": true,
+        "showInHome": true,
+        "source": "simkl",
+        "metadata": {
+          "interval": "today"
+        },
+        "randomizePerPage": false
+      },
+      {
+        "id": "tmdb.discover.movie.in_theaters_this_year.mtnidmrl",
+        "type": "movie",
+        "name": "In Theaters This Year",
+        "enabled": true,
+        "showInHome": true,
+        "source": "tmdb",
+        "metadata": {
+          "description": "TMDB Discover (movie)",
+          "url": "https://www.themoviedb.org/discover/movie?sort_by=popularity.desc&include_adult=false&with_origin_country=US&watch_region=US&region=US&with_release_type=3&primary_release_date.gte=2026-01-01&primary_release_date.lte=2026-12-31&release_date.gte=2026-01-01&release_date.lte=2026-12-31",
+          "discover": {
+            "version": 2,
+            "source": "tmdb",
+            "mediaType": "movie",
+            "params": {
+              "sort_by": "popularity.desc",
+              "include_adult": false,
+              "with_origin_country": "US",
+              "watch_region": "US",
+              "region": "US",
+              "with_release_type": "3",
+              "primary_release_date.gte": "__tmdb_date__:this_year:from",
+              "primary_release_date.lte": "__tmdb_date__:this_year:to",
+              "release_date.gte": "__tmdb_date__:this_year:from",
+              "release_date.lte": "__tmdb_date__:this_year:to"
+            },
+            "formState": {
+              "catalogName": "In Theaters This Year",
+              "discoverSource": "tmdb",
+              "sortBy": "popularity.desc",
+              "cacheTTL": null,
+              "catalogType": "movie",
+              "includeGenres": [],
+              "excludeGenres": [],
+              "genreJoinMode": "or",
+              "originalLanguage": "",
+              "originCountry": "US",
+              "certificationCountry": "",
+              "certificationValue": "",
+              "certificationMode": "exact",
+              "includeAdult": false,
+              "releasedOnly": false,
+              "tmdbTvStatuses": [],
+              "tmdbMovieReleaseTypes": [
+                "3"
+              ],
+              "tmdbTvTypes": [],
+              "selectedPeople": [],
+              "peopleJoinMode": "or",
+              "withCompanies": [],
+              "withoutCompanies": [],
+              "companyJoinMode": "or",
+              "withNetworks": [],
+              "withKeywords": [],
+              "withoutKeywords": [],
+              "keywordJoinMode": "or",
+              "watchRegion": "US",
+              "watchProviders": [],
+              "providerJoinMode": "or",
+              "voteAverageRange": [
+                0,
+                10
+              ],
+              "voteCountMin": 0,
+              "runtimeRange": [
+                0,
+                400
+              ],
+              "primaryReleaseFrom": "2026-01-01",
+              "primaryReleaseTo": "2026-12-31",
+              "movieDatePreset": "this_year",
+              "firstAirFrom": "",
+              "firstAirTo": "",
+              "seriesDatePreset": "clear",
+              "airDateFrom": "",
+              "airDateTo": "",
+              "airDatePreset": "clear",
+              "releaseRegion": "US"
+            }
+          }
+        }
+      },
+      {
+        "id": "tmdb.discover.movie.tmdb_top_rated_movies.mtvx8415",
+        "type": "movie",
+        "name": "Top Rated Movies",
+        "enabled": true,
+        "showInHome": true,
+        "source": "tmdb",
+        "metadata": {
+          "description": "TMDB Discover (movie)",
+          "url": "https://www.themoviedb.org/discover/movie?sort_by=vote_count.desc&include_adult=false&without_genres=99%7C10402%7C37&with_origin_country=US&watch_region=US",
+          "discover": {
+            "version": 2,
+            "source": "tmdb",
+            "mediaType": "movie",
+            "params": {
+              "sort_by": "vote_count.desc",
+              "include_adult": false,
+              "without_genres": "99|10402|37",
+              "with_origin_country": "US",
+              "watch_region": "US"
+            },
+            "formState": {
+              "catalogName": "Top Rated Movies",
+              "discoverSource": "tmdb",
+              "sortBy": "vote_count.desc",
+              "cacheTTL": null,
+              "catalogType": "movie",
+              "includeGenres": [],
+              "excludeGenres": [
+                {
+                  "id": 99,
+                  "label": "Documentary"
+                },
+                {
+                  "id": 10402,
+                  "label": "Music"
+                },
+                {
+                  "id": 37,
+                  "label": "Western"
+                }
+              ],
+              "genreJoinMode": "or",
+              "originalLanguage": "",
+              "originCountry": "US",
+              "certificationCountry": "",
+              "certificationValue": "",
+              "certificationMode": "exact",
+              "includeAdult": false,
+              "releasedOnly": false,
+              "tmdbTvStatuses": [],
+              "tmdbMovieReleaseTypes": [],
+              "tmdbTvTypes": [],
+              "selectedPeople": [],
+              "peopleJoinMode": "or",
+              "withCompanies": [],
+              "withoutCompanies": [],
+              "companyJoinMode": "or",
+              "withNetworks": [],
+              "withKeywords": [],
+              "withoutKeywords": [],
+              "keywordJoinMode": "or",
+              "watchRegion": "US",
+              "watchProviders": [],
+              "providerJoinMode": "or",
+              "voteAverageRange": [
+                0,
+                10
+              ],
+              "voteCountMin": 0,
+              "runtimeRange": [
+                0,
+                400
+              ],
+              "primaryReleaseFrom": "",
+              "primaryReleaseTo": "",
+              "movieDatePreset": "clear",
+              "firstAirFrom": "",
+              "firstAirTo": "",
+              "seriesDatePreset": "clear",
+              "airDateFrom": "",
+              "airDateTo": "",
+              "airDatePreset": "this_year",
+              "releaseRegion": ""
+            }
+          }
+        },
+        "displayType": "movie",
+        "randomizePerPage": true
+      },
+      {
+        "id": "tvdb.genres",
+        "name": "TVDB Genres",
+        "type": "series",
+        "source": "tvdb",
+        "enabled": true,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "tmdb.year",
+        "name": "TMDB By Year",
+        "type": "series",
+        "source": "tmdb",
+        "enabled": true,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "simkl.watchlist.shows.plantowatch",
+        "type": "series",
+        "name": "Simkl Plan to Watch Shows",
+        "enabled": true,
+        "showInHome": true,
+        "source": "simkl",
+        "metadata": {
+          "status": "plantowatch"
+        },
+        "randomizePerPage": true
+      },
+      {
+        "id": "simkl.trending.shows",
+        "type": "series",
+        "name": "Simkl Trending Shows",
+        "enabled": true,
+        "showInHome": true,
+        "source": "simkl",
+        "metadata": {
+          "interval": "today"
+        }
+      },
+      {
+        "id": "tvdb.discover.series.airing_shows.mtnifla7",
+        "type": "series",
+        "name": "Airing Shows",
+        "enabled": true,
+        "showInHome": true,
+        "source": "tvdb",
+        "metadata": {
+          "description": "TVDB Discover (series)",
+          "url": "https://api4.thetvdb.com/v4/series/filter?sort=score&country=usa&lang=eng&sortType=desc&status=1",
+          "discover": {
+            "version": 2,
+            "source": "tvdb",
+            "mediaType": "series",
+            "params": {
+              "sort": "score",
+              "country": "usa",
+              "lang": "eng",
+              "sortType": "desc",
+              "status": 1
+            },
+            "formState": {
+              "catalogName": "Airing Shows",
+              "discoverSource": "tvdb",
+              "sortBy": "score",
+              "cacheTTL": null,
+              "catalogType": "series",
+              "includeGenres": [],
+              "excludeGenres": [],
+              "genreJoinMode": "or",
+              "originalLanguage": "eng",
+              "originCountry": "usa",
+              "certificationCountry": "usa",
+              "certificationValue": "",
+              "certificationMode": "exact",
+              "tvdbSortDirection": "desc",
+              "tvdbStatus": "1",
+              "tvdbYear": ""
+            }
+          }
+        }
+      },
+      {
+        "id": "tvdb.discover.series.top_rated_shows.mtvxao16",
+        "type": "series",
+        "name": "Top Rated Shows",
+        "enabled": true,
+        "showInHome": true,
+        "source": "tvdb",
+        "metadata": {
+          "description": "TVDB Discover (series)",
+          "url": "https://api4.thetvdb.com/v4/series/filter?sort=score&country=usa&lang=eng&sortType=desc",
+          "discover": {
+            "version": 2,
+            "source": "tvdb",
+            "mediaType": "series",
+            "params": {
+              "sort": "score",
+              "country": "usa",
+              "lang": "eng",
+              "sortType": "desc"
+            },
+            "formState": {
+              "catalogName": "Top Rated Shows",
+              "discoverSource": "tvdb",
+              "sortBy": "score",
+              "cacheTTL": null,
+              "catalogType": "series",
+              "includeGenres": [],
+              "excludeGenres": [],
+              "genreJoinMode": "or",
+              "originalLanguage": "eng",
+              "originCountry": "usa",
+              "certificationCountry": "usa",
+              "certificationValue": "",
+              "certificationMode": "exact",
+              "tvdbSortDirection": "desc",
+              "tvdbStatus": "",
+              "tvdbYear": ""
+            }
+          }
+        },
+        "randomizePerPage": true
+      },
+      {
+        "id": "mal.genres",
+        "name": "MAL Genres",
+        "type": "anime",
+        "source": "mal",
+        "enabled": true,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "mal.studios",
+        "name": "MAL By Studio",
+        "type": "anime",
+        "source": "mal",
+        "enabled": true,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false
+      },
+      {
+        "id": "simkl.watchlist.anime.plantowatch",
+        "type": "anime",
+        "name": "Simkl Plan to Watch Anime",
+        "enabled": true,
+        "showInHome": true,
+        "source": "simkl",
+        "metadata": {
+          "status": "plantowatch"
+        },
+        "randomizePerPage": true
+      },
+      {
+        "id": "simkl.trending.anime",
+        "type": "anime",
+        "name": "Simkl Trending Anime",
+        "enabled": true,
+        "showInHome": true,
+        "source": "simkl",
+        "metadata": {
+          "interval": "today"
+        }
+      },
+      {
+        "id": "tmdb.discover.series.returning_anime.mtvxngs8",
+        "type": "series",
+        "name": "Returning Anime",
+        "enabled": true,
+        "showInHome": true,
+        "source": "tmdb",
+        "metadata": {
+          "description": "TMDB Discover (tv)",
+          "url": "https://www.themoviedb.org/discover/tv?sort_by=vote_count.desc&include_adult=false&with_genres=16&with_origin_country=JP&watch_region=US&with_status=0",
+          "discover": {
+            "version": 2,
+            "source": "tmdb",
+            "mediaType": "tv",
+            "params": {
+              "sort_by": "vote_count.desc",
+              "include_adult": false,
+              "with_genres": "16",
+              "with_origin_country": "JP",
+              "watch_region": "US",
+              "with_status": "0",
+              "air_date.gte": "__tmdb_date__:this_year:from",
+              "air_date.lte": "__tmdb_date__:this_year:to"
+            },
+            "formState": {
+              "catalogName": "Returning Anime",
+              "discoverSource": "tmdb",
+              "sortBy": "vote_count.desc",
+              "cacheTTL": null,
+              "catalogType": "series",
+              "includeGenres": [
+                {
+                  "id": 16,
+                  "label": "Animation"
+                }
+              ],
+              "excludeGenres": [],
+              "genreJoinMode": "or",
+              "originalLanguage": "",
+              "originCountry": "JP",
+              "certificationCountry": "",
+              "certificationValue": "",
+              "certificationMode": "exact",
+              "includeAdult": false,
+              "releasedOnly": false,
+              "tmdbTvStatuses": [
+                "0"
+              ],
+              "tmdbMovieReleaseTypes": [],
+              "tmdbTvTypes": [],
+              "selectedPeople": [],
+              "peopleJoinMode": "or",
+              "withCompanies": [],
+              "withoutCompanies": [],
+              "companyJoinMode": "or",
+              "withNetworks": [],
+              "withKeywords": [],
+              "withoutKeywords": [],
+              "keywordJoinMode": "or",
+              "watchRegion": "US",
+              "watchProviders": [],
+              "providerJoinMode": "or",
+              "voteAverageRange": [
+                0,
+                10
+              ],
+              "voteCountMin": 0,
+              "runtimeRange": [
+                0,
+                400
+              ],
+              "primaryReleaseFrom": "",
+              "primaryReleaseTo": "",
+              "movieDatePreset": "clear",
+              "firstAirFrom": "",
+              "firstAirTo": "",
+              "seriesDatePreset": "clear",
+              "airDateFrom": "",
+              "airDateTo": "",
+              "airDatePreset": "this_year",
+              "releaseRegion": ""
+            }
+          }
+        },
+        "displayType": "series"
+      },
+      {
+        "id": "tmdb.discover.series.top_rated_anime_shows.mtvxs7ot",
+        "type": "series",
+        "name": "Top Rated Anime Shows",
+        "enabled": true,
+        "showInHome": true,
+        "source": "tmdb",
+        "metadata": {
+          "description": "TMDB Discover (tv)",
+          "url": "https://www.themoviedb.org/discover/tv?sort_by=vote_count.desc&include_adult=false&with_genres=16&with_origin_country=JP&watch_region=US&with_status=0%7C3%7C4%7C5",
+          "discover": {
+            "version": 2,
+            "source": "tmdb",
+            "mediaType": "tv",
+            "params": {
+              "sort_by": "vote_count.desc",
+              "include_adult": false,
+              "with_genres": "16",
+              "with_origin_country": "JP",
+              "watch_region": "US",
+              "with_status": "0|3|4|5",
+              "air_date.gte": "__tmdb_date__:this_year:from",
+              "air_date.lte": "__tmdb_date__:this_year:to"
+            },
+            "formState": {
+              "catalogName": "Top Rated Anime Shows",
+              "discoverSource": "tmdb",
+              "sortBy": "vote_count.desc",
+              "cacheTTL": null,
+              "catalogType": "series",
+              "includeGenres": [
+                {
+                  "id": 16,
+                  "label": "Animation"
+                }
+              ],
+              "excludeGenres": [],
+              "genreJoinMode": "or",
+              "originalLanguage": "",
+              "originCountry": "JP",
+              "certificationCountry": "",
+              "certificationValue": "",
+              "certificationMode": "exact",
+              "includeAdult": false,
+              "releasedOnly": true,
+              "tmdbTvStatuses": [
+                "0",
+                "3",
+                "4",
+                "5"
+              ],
+              "tmdbMovieReleaseTypes": [],
+              "tmdbTvTypes": [],
+              "selectedPeople": [],
+              "peopleJoinMode": "or",
+              "withCompanies": [],
+              "withoutCompanies": [],
+              "companyJoinMode": "or",
+              "withNetworks": [],
+              "withKeywords": [],
+              "withoutKeywords": [],
+              "keywordJoinMode": "or",
+              "watchRegion": "US",
+              "watchProviders": [],
+              "providerJoinMode": "or",
+              "voteAverageRange": [
+                0,
+                10
+              ],
+              "voteCountMin": 0,
+              "runtimeRange": [
+                0,
+                400
+              ],
+              "primaryReleaseFrom": "",
+              "primaryReleaseTo": "",
+              "movieDatePreset": "clear",
+              "firstAirFrom": "",
+              "firstAirTo": "",
+              "seriesDatePreset": "clear",
+              "airDateFrom": "",
+              "airDateTo": "",
+              "airDatePreset": "this_year",
+              "releaseRegion": ""
+            }
+          }
+        },
+        "randomizePerPage": true
+      },
+      {
+        "id": "tmdb.discover.movie.top_rated_anime_movies.mtvxtvtu",
+        "type": "movie",
+        "name": "Top Rated Anime Movies",
+        "enabled": true,
+        "showInHome": true,
+        "source": "tmdb",
+        "metadata": {
+          "description": "TMDB Discover (movie)",
+          "url": "https://www.themoviedb.org/discover/movie?sort_by=vote_count.desc&include_adult=false&with_genres=16&with_origin_country=JP&watch_region=US&region=US&with_release_type=4%7C5%7C6&release_date.lte=2026-09-10",
+          "discover": {
+            "version": 2,
+            "source": "tmdb",
+            "mediaType": "movie",
+            "params": {
+              "sort_by": "vote_count.desc",
+              "include_adult": false,
+              "with_genres": "16",
+              "with_origin_country": "JP",
+              "watch_region": "US",
+              "region": "US",
+              "with_release_type": "4|5|6",
+              "release_date.lte": "__tmdb_date__:today:to"
+            },
+            "formState": {
+              "catalogName": "Top Rated Anime Movies",
+              "discoverSource": "tmdb",
+              "sortBy": "vote_count.desc",
+              "cacheTTL": null,
+              "catalogType": "movie",
+              "includeGenres": [
+                {
+                  "id": 16,
+                  "label": "Animation"
+                }
+              ],
+              "excludeGenres": [],
+              "genreJoinMode": "or",
+              "originalLanguage": "",
+              "originCountry": "JP",
+              "certificationCountry": "",
+              "certificationValue": "",
+              "certificationMode": "exact",
+              "includeAdult": false,
+              "releasedOnly": true,
+              "tmdbTvStatuses": [],
+              "tmdbMovieReleaseTypes": [],
+              "tmdbTvTypes": [],
+              "selectedPeople": [],
+              "peopleJoinMode": "or",
+              "withCompanies": [],
+              "withoutCompanies": [],
+              "companyJoinMode": "or",
+              "withNetworks": [],
+              "withKeywords": [],
+              "withoutKeywords": [],
+              "keywordJoinMode": "or",
+              "watchRegion": "US",
+              "watchProviders": [],
+              "providerJoinMode": "or",
+              "voteAverageRange": [
+                0,
+                10
+              ],
+              "voteCountMin": 0,
+              "runtimeRange": [
+                0,
+                400
+              ],
+              "primaryReleaseFrom": "",
+              "primaryReleaseTo": "",
+              "movieDatePreset": "clear",
+              "firstAirFrom": "",
+              "firstAirTo": "",
+              "seriesDatePreset": "clear",
+              "airDateFrom": "",
+              "airDateTo": "",
+              "airDatePreset": "this_year",
+              "releaseRegion": ""
+            }
+          }
+        },
+        "randomizePerPage": true
+      }
+    ],
+    "search": {
+      "enabled": true,
+      "ai_enabled": false,
+      "ai_provider": "gemini",
+      "ai_model": "gemini-2.5-flash",
+      "ai_trigger_keyword": "Show me",
+      "providers": {
+        "movie": "tmdb.search",
+        "series": "tvdb.search",
+        "anime_movie": "kitsu.search.movie",
+        "anime_series": "kitsu.search.series",
+        "people_search_movie": "tmdb.people.search",
+        "people_search_series": "tmdb.people.search"
+      },
+      "engineEnabled": {
+        "tmdb.search": true,
+        "tvdb.search": true,
+        "tvdb.collections.search": false,
+        "tvmaze.search": true,
+        "trakt.search": true,
+        "mdblist.search": true,
+        "imdb.suggestions.search": true,
+        "simkl.search": true,
+        "simkl.search.movie": true,
+        "simkl.search.series": true,
+        "people_search_movie": false,
+        "people_search_series": false,
+        "mal.search.movie": true,
+        "mal.search.series": true,
+        "gemini.search": false,
+        "kitsu.search.series": false,
+        "kitsu.search.movie": false
+      },
+      "searchNames": {
+        "anime_series": "Anime Series Search",
+        "anime_movie": "Anime Movies Search"
+      },
+      "searchOrder": [
+        "movie",
+        "series",
+        "tvdb.collections.search",
+        "gemini.search",
+        "anime_series",
+        "anime_movie",
+        "people_search_movie",
+        "people_search_series"
+      ],
+      "engineRatingPosters": {
+        "movie": true,
+        "series": true,
+        "gemini.search": true,
+        "anime_series": true,
+        "anime_movie": true,
+        "people_search_movie": true,
+        "people_search_series": true
+      },
+      "searchDisplayTypes": {
+        "anime_series": "Anime",
+        "anime_movie": "Anime"
+      }
+    },
+    "streaming": [],
+    "customPosterUrlPattern": "https://postersplus.slokker.cc/poster?tmdb_id={tmdb_id}&stremio_id={id}&type={type}&primary_client=stremio_tv_nuvio&tmdb_key={tmdb_key}&mdblist_key={mdblist_key}&top_gradient=low&bottom_gradient=medium&top_vignette_sash_only=true&fallback_to_imdb=true&rating_display_mode=4&bar_style=pure_black&bar_append=rating&bar_score_out_of_10=true&bar_bottom_inset=0.000&movie_weights=tmdb%3A1.00&tv_weights=tmdb%3A1.00&fallback_bg_style=photoreal&sash_mode=notch&sash_badge_size_w=1.40&sash_badge_size_h=1.20&sash_badge_inset=0.000&badge_display_mode=0",
+    "customBackgroundUrlPattern": "",
+    "customLandscapeUrlPattern": "",
+    "customLogoUrlPattern": "",
+    "lastModified": 1789766571784,
+    "configVersion": 1789766571785,
+    "configHash": "c7ac3057a3cbfe17",
+    "customThumbnailUrlPattern": "",
+    "watchTracking": {
+      "simkl": {
+        "movie": false,
+        "series": false
+      }
+    },
+    "managerAccounts": []
+  },
+  "metadata": {
+    "apiKeysExcluded": true,
+    "totalCatalogs": 83,
+    "enabledCatalogs": 19
+  }
+}
