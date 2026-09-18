@@ -30,7 +30,7 @@
 ![AIOS Interface](Attachments/AIOS%20Interface.png)
 
 3. On the left first go to Save & Install to create a configuration. Make a password for it to create it (save this too). Skip the install to Stremio menu.
-4. Then go down to where you see import and use my preset to import my settings/filters. Click on Import Config.
+4. Then go down to where you see import and use my file to import my settings/filters. Click on Import Config.
 
 ![AIOS Config](Attachments/AIOS%20Config.png)
 
@@ -53,7 +53,7 @@
 ![AIOM Skip](Attachments/AIOM%20Skip.png)
 
 2. On the left first go to the Configuration tab to create a configuration. Make a password for it to create it (I recommend using the same as AIOStreams).
-3. Then go down to where you see import configuration and use the file below to import my settings.
+3. Then go down to where you see import configuration and use my file to import my settings.
 
 ![AIOM Config](Attachments/AIOM%20Config.png)
 

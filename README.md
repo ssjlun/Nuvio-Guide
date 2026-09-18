@@ -1,6 +1,5 @@
 Simplified guide to installing and setting up Nuvio for friends and family, made by Kolie. 
-- Contains preset configs for both AIOM and AIOS.
-	**(NO API KEYS INCLUDED)**
+- Contains preset configs for both AIOM and AIOS. Both configs needed can be found in Releases. **(NO API KEYS INCLUDED)**
 ## Table of Contents
 ### [Installations](./Installations.md)
 1. [Windows](Installations.md#windows-installation)
