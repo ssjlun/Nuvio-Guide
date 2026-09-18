@@ -26,7 +26,7 @@ curl -fsSL https://raw.githubusercontent.com/amackarrey/nuvioadhocsigner/main/re
 ```
 https://raw.githubusercontent.com/NuvioMedia/NuvioMobile/cmp-rewrite/store.json
 ```
-9. Nuvio should now be visible when you open the source we added. 
+9. Nuvio should now be visible when you open the source previously added. 
 10. Install Nuvio.
 ### Shortcuts Auto-Refresh
 *If left alone, the app will automatically get revoked after 7 days unless you resign it before then. **You can get around this by using the Shortcuts app** to completely automate this process for you and keep Nuvio running smoothly on your phone without any real upkeeping—sometimes there can be a few hiccups.*
