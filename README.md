@@ -9,26 +9,26 @@ Simplified guide to installing and setting up Nuvio for friends and family, made
 		1. [Shortcuts Auto-Refresh](Installations.md#shortcuts-auto-refresh)
 2. [Addons](./Addons.md)
 	1. [Disable Cinemeta](Addons.md#disable-cinemeta)
-	2. TorBox API
-	3. Additional API Keys
-		1. TMDb
-		2. TVDb
-		3. MDBList
-	4. AIOStreams
-	5. AIOMetadata
-	6. PenguPlay (Optional)
+	2. [TorBox API](Addons.md#torbox-api)
+	3. [Additional API Keys](Addons.md#additional-api-keys-required)
+		1. [TMDb API](Addons.md#tmdb)
+		2. [TVDb API](Addons.md#tvdb)
+		3. [MDBList API](Addons.md#mdblist)
+	4. [AIOStreams](Addons.md#aiostreams)
+	5. [AIOMetadata](Addons.md#aiometadata)
+	6. [PenguPlay (Optional)](Addons.md#penguplay-optional-free-backup-provider)
 3. [Settings](./Settings.md)
-	1. Tracking
-	2. Layout
-		1. Home Layout
-		2. Continue Watching
-		3. Poster Card Style (Optional)
-		4. Streams
-		5. Detail Page
-	3. Content & Discovery
-	4. Playback
-	5. Integrations
-		1. TMDB Enrichment
-		2. MDBList Ratings
-		3. Connected Services (TorBox)
-	6. Discord Rich Presence (Optional)
+	1. [Tracking](Settings.md#tracking)
+	2. [Layout](Settings.md#layout)
+		1. [Home Layout](Settings.md#home-layout)
+		2. [Continue Watching](Settings.md#continue-watching)
+		3. [Poster Card Style (Optional)](Settings.md#poster-card-style-optional-your-preference)
+		4. [Streams](Settings.md#streams)
+		5. [Detail Page](Settings.md#detail-page)
+	3. [Content & Discovery](Settings.md#content--discovery)
+	4. [Playback](Settings.md#playback)
+	5. [Integrations](Settings.md#integrations)
+		1. [TMDB Enrichment](Settings.md#tmdb-enrichment-required-for-mobile)
+		2. [MDBList Ratings](Settings.md#mdblist-ratings)
+		3. [Connected Services (TorBox)](Settings.md#connected-services-torbox)
+	6. [Discord Rich Presence (Optional)](Settings.md#discord-rich-presence-desktop-onlyoptional)
