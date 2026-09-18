@@ -4,9 +4,9 @@ Simplified guide to installing and setting up Nuvio for friends and family, made
 ## Table of Contents
 1. [Installations](./Installations.md)
 	1. [Windows](/Installations.md#windows-installation)
-	2. [Mac](https://github.com/ssjlun/Nuvio-Guide/blob/main/Installations.md#macos-installation) 
-	3. [Mobile](https://github.com/ssjlun/Nuvio-Guide/blob/main/Installations.md#ios-installation-altstore-classic)
-		1. [Shortcuts Auto-Refresh](https://github.com/ssjlun/Nuvio-Guide/blob/main/Installations.md#shortcuts-auto-refresh)
+	2. [Mac](/Installations.md#macos-installation) 
+	3. [Mobile](/Installations.md#ios-installation-altstore-classic)
+		1. [Shortcuts Auto-Refresh](/Installations.md#shortcuts-auto-refresh)
 2. [Addons](./Addons.md)
 	1. Disable Cinemeta
 	2. TorBox API
