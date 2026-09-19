@@ -51,11 +51,11 @@ https://raw.githubusercontent.com/NuvioMedia/NuvioMobile/cmp-rewrite/store.json
 	6. Disable LocalDevVPN
 	7. Show notification: "Refreshing done!"
 
-![Shortcuts 1|664](Attachments/Shortcuts%201.png)
+![Shortcuts 1](Attachments/Shortcuts%201.png)
 
 3.  Set up an automation that will run your shortcut for you without any input:
 	1. Have the automation Run Immediately.
 	2. Run at 1 AM, Mon, Wed, and Fri. Weekly.
 	3. Set the shortcut we created in the previous step.
 
-![Shortcuts 2|664](Attachments/Shortcuts%202.png)
+![Shortcuts 2](Attachments/Shortcuts%202.png)
