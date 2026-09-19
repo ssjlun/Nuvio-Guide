@@ -53,7 +53,7 @@ https://raw.githubusercontent.com/NuvioMedia/NuvioMobile/cmp-rewrite/store.json
 
 ![Shortcuts 1](Attachments/Shortcuts%201.png)
 
-3.  Set up an automation that will run your shortcut for you without any input:
+2.  Set up an automation that will run your shortcut for you without any input:
 	1. Have the automation Run Immediately.
 	2. Run at 1 AM, Mon, Wed, and Fri. Weekly.
 	3. Set the shortcut we created in the previous step.
