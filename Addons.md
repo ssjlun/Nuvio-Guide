@@ -10,12 +10,12 @@
 1. Create accounts for [TMDb](https://www.themoviedb.org), [TVDb](https://www.thetvdb.com/home), and [MDBList](https://mdblist.com). **SAVE LOGINS FOR EACH**
 2. Then Request an API for each—you will need these API keys for AIOMetadata.
 ### TMDb
-1. Apply for the API using random information—it really does not matter, you just need the key.
+1. Apply for the [API](https://www.themoviedb.org/settings/api) using random information—it really does not matter, you just need the key.
 
 ![TMDB](Attachments/TMDB.png)
 
 ### TVDb
-1. Apply for the API using random information—it really does not matter, you just need the key.
+1. Apply for the [API](https://thetvdb.com/api-information) using random information—it really does not matter, you just need the key.
 
 ![TVDB Dashboard](Attachments/TVDB%20Dashboard.png)
 ![TVDB Key](Attachments/TVDB%20Key.png)
