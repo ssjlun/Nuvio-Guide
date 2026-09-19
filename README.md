@@ -2,12 +2,12 @@
 	 - **(NO API KEYS INCLUDED)**
 - If you would like a further in-depth guide, check out the [unofficial Nuvio wiki](https://nuvio.wiki/). 
 ## Table of Contents
-### [Installations](./Installations.md)
+### [>Installations<](./Installations.md)
 1. [Windows](Installations.md#windows-installation)
 2. [Mac](Installations.md#macos-installation) 
 3. [Mobile](Installations.md#ios-installation-altstore-classic)
 	1. [Shortcuts Auto-Refresh](Installations.md#shortcuts-auto-refresh)
-### [Addons](./Addons.md)
+### [>Addons<](./Addons.md)
 1. [Disable Cinemeta](Addons.md#disable-cinemeta)
 2. [TorBox API](Addons.md#torbox-api)
 3. [Additional API Keys](Addons.md#additional-api-keys-required)
@@ -17,7 +17,7 @@
 4. [AIOStreams](Addons.md#aiostreams)
 5. [AIOMetadata](Addons.md#aiometadata)
 6. [PenguPlay (Optional)](Addons.md#penguplay-optional-free-backup-provider)
-### [Settings](./Settings.md)
+### [>Settings<](./Settings.md)
 1. [Tracking](Settings.md#tracking)
 2. [Layout](Settings.md#layout)
 	1. [Home Layout](Settings.md#home-layout)
