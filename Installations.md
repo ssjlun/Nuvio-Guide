@@ -39,20 +39,20 @@ https://raw.githubusercontent.com/NuvioMedia/NuvioMobile/cmp-rewrite/store.json
 10. Install Nuvio.
 ### Shortcuts Auto-Refresh
 *If left alone, the app will automatically get revoked after 7 days unless you resign it before then. **You can get around this by using the Shortcuts app** to completely automate this process for you and keep Nuvio running smoothly on your phone without any real upkeeping—sometimes there can be a few hiccups.*
-1. Create a shortcut that will actually be refreshing your apps:
-	1. Turn Wi-Fi ON
-	2. Enable LocalDevVPN
-	3. Wait 3 Seconds
-	4. Refresh All Apps
-	5. Wait 3 Seconds
-	6. Disable LocalDevVPN
-	7. Show notification: "Refreshing done!"
+1. Create a shortcut that will actually be refreshing your apps. Use the following:
+	- Turn Wi-Fi ON
+	- Enable LocalDevVPN
+	- Wait 3 Seconds
+	- Refresh All Apps
+	- Wait 3 Seconds
+	- Disable LocalDevVPN
+	- Show notification: "Refreshing done!"
 
 ![Shortcuts 1](Attachments/Shortcuts%201.png)
 
 2.  Set up an automation that will run your shortcut for you without any input:
-	1. Have the automation Run Immediately.
-	2. Run at 1 AM, Mon, Wed, and Fri. Weekly.
-	3. Set the shortcut we created in the previous step.
+	- Have the automation Run Immediately.
+	- Run at 1 AM, Mon, Wed, and Fri. Weekly.
+	- Set the shortcut we created in the previous step.
 
 ![Shortcuts 2](Attachments/Shortcuts%202.png)
