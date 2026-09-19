@@ -3,7 +3,7 @@
 2. Delete the addon named Cinemeta.
 ## TorBox API
 1. Create an account for [TorBox](https://torbox.app).
-2. Sign up for a $3/month subscription. *Credit Card Recommended* 
+2. Sign up for a $3/month subscription. *Credit Card Recommended.* 
 3. Obtain API key—needed for AIOStreams.
 	1. Click the dropdown menu on the top right, go to Settings and scroll down until you see Copy API Key—no need to apply.
 ## Additional API Keys (Required)
