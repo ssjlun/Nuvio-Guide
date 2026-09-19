@@ -1,4 +1,4 @@
- - Contains preset configs for both AIOM and AIOS. Both configs needed can be found in Releases. 
+ - Contains preset configs for both AIOM and AIOS. Both configs needed can be found in [Releases](https://github.com/ssjlun/Nuvio-Guide/releases). 
 	 - **(NO API KEYS INCLUDED)**
 - If you would like a further in-depth guide, check out the [unofficial Nuvio wiki](https://nuvio.wiki/). 
 ## Table of Contents
