@@ -4,9 +4,19 @@
 - If you are setting up a profile for the first time I recommend going through the advanced setup.
 	- Then if you plan to add someone to your account by making a new profile, you can follow the basic setup to keep things simple.
 - If you are planning on making an account for someone else (that you will not be using or have a profile on) then I recommend just following the basic setup. It is more than enough for the average user.
-## Table of Contents
-### Basic Setup
-### Advanced Setup
+---
+# Table of Contents
+## Basic Setup
+## Advanced Setup
+### Settings
+#### Account
+- Tracking
+#### General
+- Layout
+##### Content & Discovery
+###### Sources
+
+#### Self-hosting
 ### API Keys
 ### [1. Installations](./Installations.md)
 - Windows
