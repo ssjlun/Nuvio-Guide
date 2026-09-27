@@ -7,25 +7,25 @@
 ---
 # Table of Contents
 ## Installations
-- Windows
+- Windows ⭐
 - MacOS
-- iOS (sideloading)
+- iOS (Sideloading)
 	- Shortcuts Auto-Refresh
 ## Addon Configuration
 - Metadata
 	- Posters
-		- Posters+
+		- Posters+ (For Advanced Setup)
 		- BetterPosters
-	- Xperience (Basic Setup)
-	- AIOMetadata (Advanced Setup)
+	- Xperience
+	- AIOMetadata (For Advanced Setup)
 - Streams
 	- AIOStreams
-	- Pengu Play
-	- Sports Streams
+	- Pengu Play (Optional)
+	- Sports Streams (Optional)
 ## API Keys
 - Torbox API
 - TMDB API
-- TVDB API
+- TVDB API (For Advanced Setup)
 - MDBList
 ## Basic Setup for Nuvio
 ### Settings
@@ -49,7 +49,7 @@
 			- Addons
 	- Playback
 	- Integrations
-### Self-hosting (Optional)
+### Self-hosting (Optional) 
 ### [1. Installations](./Installations.md)
 - Windows
 - Mac
