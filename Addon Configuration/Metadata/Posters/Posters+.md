@@ -1,0 +1,6 @@
+- Offers the most customization for posters, and supports landscape posters that work for collections. *(Consider using BetterPosters as a backup to this)*
+	- Visit [Posters+]((https://postersplus.slokker.cc), hosted by Slokker.
+	- Put your TMDB and MDBList API keys in the Sources section.
+	- Either load a preset or configure how you would like your posters to look.
+	- Once happy with the posters, click the "Copy Config" button to get your poster URL.
+		- You can right click the same button to make sure you are saving a URL for the correct use.

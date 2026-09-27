@@ -1,0 +1,4 @@
+- Easiest poster provider to setup. *(If it goes down or is too slow, consider setting up Posters+)*
+	- Visit [BetterPosters](https://btttr.cc), click get started.
+	- Click "AIOMetadata / Other Addon"
+	- Scroll down and copy your poster URL.
