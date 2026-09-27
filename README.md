@@ -23,10 +23,11 @@
 	- Pengu Play (Optional)
 	- Sports Streams (Optional)
 ## API Keys
-- Torbox API
-- TMDB API
-- TVDB API (For Advanced Setup)
+- Torbox
+- TMDB
+- TVDB (For Advanced Setup)
 - MDBList
+- Gemini
 ## Basic Setup for Nuvio
 ### Settings
 - Account
