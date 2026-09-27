@@ -6,18 +6,47 @@
 - If you are planning on making an account for someone else (that you will not be using or have a profile on) then I recommend just following the basic setup. It is more than enough for the average user.
 ---
 # Table of Contents
-## Basic Setup
-## Advanced Setup
+## Installations
+- Windows
+- MacOS
+- iOS (sideloading)
+	- Shortcuts Auto-Refresh
+## Addon Configuration
+- Metadata
+	- Xperience (Basic Setup)
+	- AIOMetadata (Advanced Setup)
+- Streams
+	- AIOStreams
+	- Pengu Play
+	- Sports Streams
+## API Keys
+- Torbox API
+- TMDB API
+- TVDB API
+- MDBList
+## Basic Setup for Nuvio
 ### Settings
-#### Account
-- Tracking
-#### General
-- Layout
-##### Content & Discovery
-###### Sources
-
-#### Self-hosting
-### API Keys
+- Account
+	- Tracking
+- General
+	- Layout
+	- Content & Discovery
+		- Sources
+			- Addons
+	- Playback
+	- Integrations
+## Advanced Setup for Nuvio
+### Settings
+- Account
+	- Tracking
+- General
+	- Layout
+	- Content & Discovery
+		- Sources
+			- Addons
+	- Playback
+	- Integrations
+### Self-hosting (Optional)
 ### [1. Installations](./Installations.md)
 - Windows
 - Mac
