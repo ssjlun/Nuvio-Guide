@@ -7,8 +7,8 @@
 ---
 # Table of Contents
 ## Installations
-- Windows ⭐
-- MacOS
+- Windows [⭐](./Installations/iOS%20(Sideloading).md)
+- MacOS [⭐](./Installations/MacOS.md)
 - iOS (Sideloading)
 	- Shortcuts Auto-Refresh
 ## Addon Configuration
