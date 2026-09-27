@@ -1,4 +1,5 @@
 *The settings do not sync over between mobile and desktop. You will have to repeat these processes on each platform you decide to use Nuvio on—feel free to customize it to your liking, since there are some features I left out.*
+- If you choose to create another profile, use the Nuvio website. There you can transfer your entire settings to another profile, as well as API keys/integrations.
 ## Tracking
 1. Create an account for [Simkl](https://simkl.com/) and link it to Nuvio by going to Settings>Account>Tracking. 
 2. Then set both your continue watching and library sources to Simkl.
