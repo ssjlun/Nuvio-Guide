@@ -7,9 +7,9 @@
 ---
 # Table of Contents
 ## Installations
-- Windows [⭐](./Installations/iOS%20(Sideloading).md)
-- MacOS [⭐](./Installations/MacOS.md)
-- iOS (Sideloading)
+- Windows [⭐](./Installations/Windows.md)
+- MacOS [⭐](<./Installations/MacOS.md>)
+- iOS (Sideloading) [⭐](<./Installations/iOS (Sideloading).md>)
 	- Shortcuts Auto-Refresh
 ## Addon Configuration
 - Metadata
@@ -50,12 +50,12 @@
 	- Playback
 	- Integrations
 ### Self-hosting (Optional) 
-### [1. Installations](./Installations.md)
+### [1. Installations](<./Installations.md>)
 - Windows
 - Mac
 - Mobile
 	- Shortcuts Auto-Refresh
-### [2. Addons](./Addons.md)
+### [2. Addons](<./Addons.md>)
 - Disable Cinemeta
 - TorBox API
 - Additional API Keys
@@ -65,7 +65,7 @@
 - AIOStreams
 - AIOMetadata
 - PenguPlay (Optional)
-### [3. Settings](./Settings.md)
+### [3. Settings](<./Settings.md>)
 - Tracking
 - Layout
 	- Home Layout
