@@ -49,6 +49,7 @@
 			- Addons
 	- Playback
 	- Integrations
+	- Discord Rich Presence (Optional, Desktop Only)
 ### Self-hosting (Optional) 
 ### [1. Installations](<./Installations.md>)
 - Windows

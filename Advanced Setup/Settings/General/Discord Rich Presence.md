@@ -1,0 +1,1 @@
+- Go to Settings>Advanced, and enable DRP.
