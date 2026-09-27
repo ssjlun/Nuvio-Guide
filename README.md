@@ -13,6 +13,9 @@
 	- Shortcuts Auto-Refresh
 ## Addon Configuration
 - Metadata
+	- Posters
+		- Posters+
+		- BetterPosters
 	- Xperience (Basic Setup)
 	- AIOMetadata (Advanced Setup)
 - Streams
