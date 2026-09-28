@@ -12,10 +12,10 @@
 - iOS (Sideloading) [⭐](<./Installations/iOS (Sideloading).md>)
 	- Shortcuts Auto-Refresh
 ## Addon Configuration
+- Posters 
+	- Posters+ [⭐](<./Addon%20Configuration/Posters/Posters+.md>) (For Advanced Setup)
+	- BetterPosters [⭐](<./Addon%20Configuration/Posters/BetterPosters.md>) 
 - Metadata
-	- Posters 
-		- Posters+ [⭐](<./Addon%20Configuration/Posters/Posters+.md>) (For Advanced Setup)
-		- BetterPosters [⭐](<./Addon%20Configuration/Posters/BetterPosters.md>) 
 	- Xperience [⭐](<./Addon Configuration/Metadata/Xperience.md>)
 	- AIOMetadata [⭐](<./Addon Configuration/Metadata/AIOMetadata.md>) (For Advanced Setup)
 - Streams
