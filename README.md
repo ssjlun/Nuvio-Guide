@@ -7,16 +7,16 @@
 ---
 # Table of Contents
 ## Installations
-- Windows [⭐](./Installations/Windows.md)
+- Windows [⭐](<./Installations/Windows.md>)
 - MacOS [⭐](<./Installations/MacOS.md>)
 - iOS (Sideloading) [⭐](<./Installations/iOS (Sideloading).md>)
 	- Shortcuts Auto-Refresh
 ## Addon Configuration
 - Metadata
-	- Posters
-		- Posters+ (For Advanced Setup)
-		- BetterPosters
-	- Xperience
+	- Posters 
+		- Posters+ [⭐](<./Addon Configuration/Metadata/Posters/Posters+.md>) (For Advanced Setup)
+		- BetterPosters [⭐](<./Addon Configuration/Metadata/Posters/BetterPosters.md>) 
+	- Xperience [⭐](./Addon%20Configuration/Metadata/Xperience.md)
 	- AIOMetadata (For Advanced Setup)
 - Streams
 	- AIOStreams

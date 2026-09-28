@@ -1,6 +1,7 @@
 - Visit [Xperience](https://xperience-app.com), and sign up for an account
 - Head to Profiles and create a new profile. 
 	- Create a name for your profile and select which preset you would like to use (Everyday mix is recommended).
+---
 ## Setup
 ### Integrations
 - Add API keys for MDBList and TMDB. Click verify for both before proceeding.
