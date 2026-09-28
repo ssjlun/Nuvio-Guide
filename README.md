@@ -52,22 +52,14 @@
 	- Integrations
 	- Discord Rich Presence (Optional, Desktop Only)
 ### Self-hosting (Optional) 
-### 
-- Windows
-- Mac
-- Mobile
-	- Shortcuts Auto-Refresh
-### [2. Addons](<./Addons.md>)
-- Disable Cinemeta
+
 - TorBox API
 - Additional API Keys
 	- TMDb API
 	- TVDb API
 	- MDBList API
-- AIOStreams
-- AIOMetadata
-- PenguPlay (Optional)
-### [3. Settings](<./Settings.md>)
+
+
 - Tracking
 - Layout
 	- Home Layout
