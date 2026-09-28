@@ -17,6 +17,9 @@
 - Go to the App Store, download [LocalDevVPN](https://apps.apple.com/us/app/localdevvpn/id6755608044), and turn it on.
 - Open the AltStore app, go to settings and sign in using your icloud account. 
 - Scroll down then enable remote altserver.
+
+![AltStore](../Attachments/AltStore.png)
+
 ## 6. Add Nuvio Repo and Install Nuvio
 - On Altstore, go to the Sources tab, click the + and paste this link to add the repo.
 ```
@@ -34,7 +37,12 @@ https://raw.githubusercontent.com/NuvioMedia/NuvioMobile/cmp-rewrite/store.json
 5. Wait 3 Seconds
 6. Disable LocalDevVPN
 7. Show notification: "Refreshing done!"
+
+![Shortcuts 1](../Attachments/Shortcuts%201.png)
+
 ## 2. Set up an Automation
 1. Have the automation Run Immediately.
 2. Run at 1 AM, Mon, Wed, and Fri. Weekly.
 3. Set the "Do" to the shortcut we created in the previous step.
+
+![Shortcuts 2](../Attachments/Shortcuts%202.png)
