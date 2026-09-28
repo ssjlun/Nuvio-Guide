@@ -8,6 +8,11 @@
 ## 4. Trust AltStore and Enable Developer Mode
 - Open your iPhone's Settings app. Navigate to General > VPN & Device Management. Under the "Developer App" section, tap your Apple ID email and select Trust.
 - Go to Settings > Privacy & Security. Scroll to the bottom and tap Developer Mode. Toggle it on, and your phone will restart to apply the change.
+
+![IOS Cert](../Attachments/IOS%20Cert.avif)
+
+![IOS Dev Mode](../Attachments/IOS%20Dev%20Mode.avif)
+
 ## 5. Use No Computer Resign Method
 - Go to the App Store, download [LocalDevVPN](https://apps.apple.com/us/app/localdevvpn/id6755608044), and turn it on.
 - Open the AltStore app, go to settings and sign in using your icloud account. 
