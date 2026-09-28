@@ -14,10 +14,10 @@
 ## Addon Configuration
 - Metadata
 	- Posters 
-		- Posters+ [⭐](<./Addon Configuration/Metadata/Posters/Posters+.md>) (For Advanced Setup)
-		- BetterPosters [⭐](<./Addon Configuration/Metadata/Posters/BetterPosters.md>) 
-	- Xperience [⭐](./Addon%20Configuration/Metadata/Xperience.md)
-	- AIOMetadata (For Advanced Setup)
+		- Posters+ [⭐](<./Addon%20Configuration/Posters/Posters+.md>) (For Advanced Setup)
+		- BetterPosters [⭐](<./Addon%20Configuration/Posters/BetterPosters.md>) 
+	- Xperience [⭐](<./Addon Configuration/Metadata/Xperience.md>)
+	- AIOMetadata [⭐](<./Addon Configuration/Metadata/AIOMetadata.md>) (For Advanced Setup)
 - Streams
 	- AIOStreams
 	- Pengu Play (Optional)
