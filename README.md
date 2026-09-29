@@ -1,3 +1,5 @@
+# Getting Started
+## 1. Installations > 2. Addon Config/API keys > 3. Basic or Advanced Setup for Nuvio
 - If you are setting up a profile for the first time I recommend going through the advanced setup.
 	- Then if you plan to add someone to your account by making a new profile, you can later copy your settings over to their profile to keep things simple.
 - If you are planning on making an account for someone else (that you will not be using or will not have a profile on) then I recommend just following the basic setup. It is more than enough for the average user.
@@ -9,6 +11,7 @@
 - MacOS [⭐](<./Installations/MacOS.md>)
 - iOS (Sideloading) [⭐](<./Installations/iOS (Sideloading).md>)
 	- Shortcuts Auto-Refresh
+###
 ## Addon Configuration
 - Posters 
 	- Posters+ [⭐](<./Addon%20Configuration/Posters/Posters+.md>) (For Advanced Setup)
@@ -26,6 +29,7 @@
 - TVDB (For Advanced Setup)
 - MDBList
 - Gemini
+###
 ## Basic Setup for Nuvio
 ### Settings
 - Account
