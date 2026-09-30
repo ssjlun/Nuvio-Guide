@@ -23,7 +23,7 @@ More info on how to share your Nuvio -> ⭐
 	- MDBList
 	- Gemini (Optional)
 - Streams
-	- AIOStreams
+	- AIOStreams [⭐](<./Addon Configuration/Streams/AIOStreams.md>)
 	- Pengu Play (Optional)
 	- Sports Streams (Optional)
 - Metadata
