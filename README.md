@@ -1,8 +1,8 @@
 # Getting Started
-## 1. Installations > 2. Addon Config/API keys > 3. Basic or Advanced Setup
+## 1. Installations > 2. Addon Configuration > 3. Basic or Advanced Setup
 - If you are setting up a profile for the first time I recommend going through the advanced setup.
-	- Then if you plan to add someone to your account by making a new profile, you can later copy your settings over to their profile to keep things simple.
-- If you are planning on making an account for someone else (that you will not be using or will not have a profile on) then I recommend just following the basic setup. It is more than enough for the average user.
+	- Then if you plan to add someone to your account by making a new profile, you can **later copy your settings over to their profile** to keep things simple.
+- If you are planning on making an account for someone else (that you will not be using or will not have a profile on) then I recommend just following the basic setup. *It is more than enough for the average user.*
 - If you would like a further in-depth guide, check out the [unofficial Nuvio wiki](https://nuvio.wiki/)
 ---
 # Table of Contents
@@ -12,22 +12,22 @@
 - iOS (Sideloading) [⭐](<./Installations/iOS (Sideloading).md>)
 	- Shortcuts Auto-Refresh
 ## Addon Configuration
-- Posters 
-	- Posters+ [⭐](<./Addon%20Configuration/Posters/Posters+.md>) (For Advanced Setup)
-	- BetterPosters [⭐](<./Addon%20Configuration/Posters/BetterPosters.md>) 
-- Metadata
-	- Xperience [⭐](<./Addon Configuration/Metadata/Xperience.md>)
-	- AIOMetadata [⭐](<./Addon Configuration/Metadata/AIOMetadata.md>) (For Advanced Setup)
+- API Keys
+	- Torbox
+	- TMDB
+	- TVDB
+	- MDBList
+	- Gemini
 - Streams
 	- AIOStreams
 	- Pengu Play (Optional)
 	- Sports Streams (Optional)
-## API Keys
-- Torbox
-- TMDB
-- TVDB (For Advanced Setup)
-- MDBList
-- Gemini
+- Metadata
+	- Xperience [⭐](<./Addon Configuration/Metadata/Xperience.md>)
+	- AIOMetadata [⭐](<./Addon Configuration/Metadata/AIOMetadata.md>) (For Advanced Setup)
+- Posters 
+	- Posters+ [⭐](<./Addon%20Configuration/Posters/Posters+.md>) (For Advanced Setup)
+	- BetterPosters [⭐](<./Addon%20Configuration/Posters/BetterPosters.md>) 
 ## Basic Setup for Nuvio
 ### Settings
 - Account
