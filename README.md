@@ -16,7 +16,7 @@ More info on how to share your Nuvio -> ⭐
 - iOS (Sideloading) [⭐](<./Installations/iOS (Sideloading).md>)
 	- Shortcuts Auto-Refresh
 ## Addon Configuration
-- API Keys
+- API Keys [⭐](<./Addon Configuration/API Keys.md>)
 - Streams
 	- AIOStreams [⭐](<./Addon Configuration/Streams/AIOStreams.md>)
 	- Pengu Play (Optional)
