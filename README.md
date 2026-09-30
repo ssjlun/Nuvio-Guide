@@ -48,5 +48,4 @@ More info on how to share your Nuvio -> ⭐
 			- Addons
 	- Playback
 	- Integrations
-	- Discord Rich Presence (Optional, Desktop Only)
 ---

@@ -10,3 +10,6 @@
 - Set "More Like This Source" to Simkl.
 ## 3. Simkl Features
 - Set "Anime ID Preference" to Prefer TVDB.
+---
+# Discord Rich Presence (Optional)
+- Go to Settings>Advanced, and enable DRP.
