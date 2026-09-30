@@ -19,7 +19,7 @@ More info on how to share your Nuvio -> ⭐
 - Streams
 	- AIOStreams [⭐](<./Addon Configuration/Streams/AIOStreams.md>)
 	- Pengu Play (Optional) [⭐](<./Addon Configuration/Streams/Pengu Play.md>)
-	- Sports Streams (Optional)
+	- Sports Streams (Optional) [⭐](./Addon%20Configuration/Streams/Sports%20Streams.md)
 - Metadata
 	- Xperience [⭐](<./Addon Configuration/Metadata/Xperience.md>)
 	- AIOMetadata [⭐](<./Addon Configuration/Metadata/AIOMetadata.md>) (For Advanced Setup)
