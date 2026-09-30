@@ -30,8 +30,8 @@ More info on how to share your Nuvio -> ⭐
 	- Xperience [⭐](<./Addon Configuration/Metadata/Xperience.md>)
 	- AIOMetadata [⭐](<./Addon Configuration/Metadata/AIOMetadata.md>) (For Advanced Setup)
 - Posters 
-	- Posters+ [⭐](<./Addon%20Configuration/Posters/Posters+.md>) (For Advanced Setup)
-	- BetterPosters [⭐](<./Addon%20Configuration/Posters/BetterPosters.md>) 
+	- Posters+ [⭐](<./Addon Configuration/Posters/Posters+.md>) (For Advanced Setup)
+	- BetterPosters [⭐](<./Addon Configuration/Posters/BetterPosters.md>) 
 ## Basic Setup for Nuvio
 ### Settings
 - Account

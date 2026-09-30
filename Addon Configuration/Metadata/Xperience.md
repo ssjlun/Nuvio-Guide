@@ -14,7 +14,7 @@
 - Keep "Show the built-in Movies and Series browse catalogs" toggled on.
 ### Posters
 - Put your Posters+ and/or BetterPosters URL and click verify before proceeding.
-	- Enabled all toggles at the bottom of posters section.
+	- Enable all toggles at the bottom of the posters section.
 ### Preferences
 - Change Time zone to your Time zone.
 - Change Series season & episode source to The TVDB only (matches Simkl)
