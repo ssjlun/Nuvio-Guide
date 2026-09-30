@@ -18,7 +18,7 @@ More info on how to share your Nuvio -> ⭐
 - API Keys [⭐](<./Addon Configuration/API Keys.md>)
 - Streams
 	- AIOStreams [⭐](<./Addon Configuration/Streams/AIOStreams.md>)
-	- Pengu Play (Optional)
+	- Pengu Play (Optional) [⭐](<./Addon Configuration/Streams/Pengu Play.md>)
 	- Sports Streams (Optional)
 - Metadata
 	- Xperience [⭐](<./Addon Configuration/Metadata/Xperience.md>)
