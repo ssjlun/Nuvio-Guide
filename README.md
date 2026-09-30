@@ -19,7 +19,7 @@ More info on how to share your Nuvio -> ⭐
 - Streams
 	- AIOStreams [⭐](<./Addon Configuration/Streams/AIOStreams.md>)
 	- Pengu Play (Optional) [⭐](<./Addon Configuration/Streams/Pengu Play.md>)
-	- Sports Streams (Optional) [⭐](./Addon%20Configuration/Streams/Sports%20Streams.md)
+	- Sports Streams (Optional) [⭐](<./Addon Configuration/Streams/Sports Streams.md>)
 - Metadata
 	- Xperience [⭐](<./Addon Configuration/Metadata/Xperience.md>)
 	- AIOMetadata [⭐](<./Addon Configuration/Metadata/AIOMetadata.md>) (For Advanced Setup)
@@ -40,12 +40,12 @@ More info on how to share your Nuvio -> ⭐
 ## Advanced Setup for Nuvio
 ### Settings
 - Account
-	- Tracking
+	- Tracking [⭐](<./Advanced Setup/Settings/Account/Tracking.md>)
 - General
-	- Layout
+	- Layout [⭐](./Advanced%20Setup/Settings/General/Layout.md)
 	- Content & Discovery
 		- Sources
-			- Addons
-	- Playback
-	- Integrations
+			- Addons [⭐](./Advanced%20Setup/Settings/General/Content%20&%20Discovery/Sources/Addons.md)
+	- Playback [⭐](./Advanced%20Setup/Settings/General/Playback.md)
+	- Integrations [⭐](./Advanced%20Setup/Settings/General/Integrations.md)
 ---
