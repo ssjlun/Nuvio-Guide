@@ -13,8 +13,7 @@ More info on how to share your Nuvio -> ⭐
 ## Installations
 - Windows [⭐](<./Installations/Windows.md>)
 - MacOS [⭐](<./Installations/MacOS.md>)
-- iOS (Sideloading) [⭐](<./Installations/iOS (Sideloading).md>)
-	- Shortcuts Auto-Refresh
+- iOS (Sideloading) + Shortcuts Auto-Refresh [⭐](<./Installations/iOS (Sideloading).md>)
 ## Addon Configuration
 - API Keys [⭐](<./Addon Configuration/API Keys.md>)
 - Streams
