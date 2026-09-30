@@ -17,11 +17,6 @@ More info on how to share your Nuvio -> ⭐
 	- Shortcuts Auto-Refresh
 ## Addon Configuration
 - API Keys
-	- Torbox
-	- TMDB
-	- TVDB
-	- MDBList
-	- Gemini (Optional)
 - Streams
 	- AIOStreams [⭐](<./Addon Configuration/Streams/AIOStreams.md>)
 	- Pengu Play (Optional)
