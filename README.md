@@ -16,17 +16,14 @@ More info on how to share your Nuvio -> ⭐
 - iOS (Sideloading) + Shortcuts Auto-Refresh [⭐](<./Installations/iOS (Sideloading).md>)
 ## Addon Configuration
 - API Keys [⭐](<./Addon Configuration/API Keys.md>)
-
-Streams
+- Streams
 	- AIOStreams [⭐](<./Addon Configuration/Streams/AIOStreams.md>)
 	- Pengu Play (Optional) [⭐](<./Addon Configuration/Streams/Pengu Play.md>)
 	- Sports Streams (Optional)
-
-Metadata
+- Metadata
 	- Xperience [⭐](<./Addon Configuration/Metadata/Xperience.md>)
 	- AIOMetadata [⭐](<./Addon Configuration/Metadata/AIOMetadata.md>) (For Advanced Setup)
-
-Posters 
+- Posters 
 	- Posters+ [⭐](<./Addon Configuration/Posters/Posters+.md>) (For Advanced Setup)
 	- BetterPosters [⭐](<./Addon Configuration/Posters/BetterPosters.md>) 
 ## Basic Setup for Nuvio
